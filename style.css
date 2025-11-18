@@ -4,18 +4,20 @@ html, body {
     padding: 0;
     overflow-y: scroll;
     overflow-x: hidden;
+    background-color: #F5E4F0
 }
 
 h1, h2, h3, p, ol, ul, a {
     margin: 20px;
     font-weight: normal;
+    font-family: verdana
 }
 
  /* 
     you can change the color of your text below!
  */
 p {
-    color: pink;
+    color: #D65E5E;
 }
 
 .mainHeading {
