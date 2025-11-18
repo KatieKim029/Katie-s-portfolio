@@ -12,6 +12,10 @@ h1, h2, h3, p, ol, ul, a {
     font-family: verdana
 }
 
+h1 {
+    font-size: 100px
+}
+
  /* 
     you can change the color of your text below!
  */
@@ -21,6 +25,7 @@ p {
 
 .mainHeading {
     text-align: center;
+    font-size: 100px;
 }
 
 /* Navbar Styles */
